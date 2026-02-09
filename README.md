@@ -93,7 +93,7 @@ An interactive table enabling granular analysis with:
 ## 🖼️ Dashboard Preview
 
 ### 📌 ER Patient Flow & Performance
-<img width="1182" height="719" alt="Screenshot 2026-02-05 124030" src="https://github.com/user-attachments/assets/7f348388-33ad-4d02-bdf6-1a6c8f2b0149" />
+<img width="1535" height="939" alt="Screenshot 2026-02-09 114939" src="https://github.com/user-attachments/assets/4a349d8d-e19e-4d58-a6b1-04b77dd81315" />
 
 ### 📌 Patient Details View
 <img width="1185" height="720" alt="Screenshot 2026-02-05 124927" src="https://github.com/user-attachments/assets/e648a558-77a4-43fd-b8f6-aef1635d8709" />
