@@ -98,6 +98,8 @@ An interactive table enabling granular analysis with:
 ### 📌 Patient Details View
 <img width="1185" height="720" alt="Screenshot 2026-02-05 124927" src="https://github.com/user-attachments/assets/e648a558-77a4-43fd-b8f6-aef1635d8709" />
 
+**Link** : https://app.powerbi.com/view?r=eyJrIjoiYjM4Y2FlZTEtODU0YS00NjlhLWI4MWQtMGQ1NDdlMWRkYTk0IiwidCI6IjIxZTZlZDczLTUyMTAtNDM3OC1iNzA1LTMxM2UxMzBlODA0MyJ9
+
 
 ---
 
